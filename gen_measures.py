@@ -3,7 +3,6 @@ import csv
 import math
 import sys
 
-from string import ascii_uppercase
 from typing import Generator
 
 from constants import LETTERS
